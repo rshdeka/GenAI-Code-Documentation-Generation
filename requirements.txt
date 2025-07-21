@@ -1,0 +1,6 @@
+pandas 
+openpyxl
+openai
+PyGithub
+chardet
+dotenv
